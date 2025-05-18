@@ -7,7 +7,7 @@ The app is built with [Streamlit](https://streamlit.io/) and uses Google’s **G
 ## Features
 
 - Natural language conversation about women’s health
-- Processes and learns from PDF open [source book](https://mhcc.pressbooks.pub/he265/) (can also be found in the project directory)
+- Processes and learns from PDF [open source book](https://mhcc.pressbooks.pub/he265/) (can also be found in the project directory)
 - Powered by Google’s Gemini Pro model
 - Streamlit web interface
 
